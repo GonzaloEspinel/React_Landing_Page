@@ -1,11 +1,20 @@
+import rmLogo from'./assets/img/logo_RM.png'
+// import  {useState} from 'react'
+import './index.css'
+
+
 function App() {
   return (
     <>
 
-      <div className="flex-container">
+<div className="flex-container">
         <div className="nav">
+          <a href="http://www.realmadrid.com/es/" target="_blank" rel="noreferrer">
+            <img src={rmLogo} className="logo"  />
+          </a>
+          <h3>Bienvenido a</h3>
           <h1>
-            Peña Oficial Miami del Real Madrid
+            La Peña Oficial Miami del Real Madrid C.F.
           </h1>
 
 

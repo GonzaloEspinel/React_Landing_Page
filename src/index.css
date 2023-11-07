@@ -21,7 +21,16 @@ body {
 
 }
 
-
+.nav{
+  display: inline-flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center
+  
+ 
+ 
+}
 
 .flex-col {
   background-color: #010745;
