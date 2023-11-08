@@ -25,6 +25,9 @@ body {
 
 .nav{
   display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
   }
   .nav img{
     width: 7rem;
