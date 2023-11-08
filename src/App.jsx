@@ -22,11 +22,31 @@ function App() {
         </div>
         <div className="hero">
           <img src="./assets/img/bernabeu.jpg" />
+          <img src="./assets/img/bernabeu.jpg" />
+          <img src="./assets/img/bernabeu.jpg" />
         </div>
 
       </div>
 
+      <div className="flex-col-ben">
+        <h1>Beneficios</h1>
+        <div className="card">
+          <div className="text">
+            <h5>Madridista Premium</h5>
+            <h1>Free</h1>
+            <h5>Lista de Beneficios</h5>
+            <input type="submit" value="Submit"></input>
+          </div>
+        </div>
 
+        <div className="card">
+
+        </div>
+        <div className="card">
+
+        </div>
+      </div>
+      
       <div className="flex-col">
         <div className="formCard">
           <h2>Registro Gratuito</h2>
@@ -44,24 +64,6 @@ function App() {
           </p>
         </div>
 
-      </div>
-      <div className="flex-col-ben">
-        <h1>Benefits</h1>
-        <div className="card">
-          <div className="text">
-            <h5>Madridista Premium</h5>
-            <h1>Free</h1>
-            <h5>Lista de Beneficios</h5>
-            <input type="submit" value="Submit"></input>
-          </div>
-        </div>
-
-        <div className="card">
-
-        </div>
-        <div className="card">
-
-        </div>
       </div>
     
     </>
