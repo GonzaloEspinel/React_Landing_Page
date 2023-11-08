@@ -16,6 +16,7 @@ function App() {
           <h1>
             La Peña Oficial Miami del Real Madrid C.F.
           </h1>
+          
 
 
         </div>
@@ -39,9 +40,7 @@ function App() {
             <input type="submit" value="Submit"></input>
           </form>
           <p>
-            Registrese gratuitamente para concursar
-            por una camiseta del primer equipo del
-            Real Madrid C.F
+            Registrese y concurse por una camiseta del 1er equipo del Real Madrid C.F
           </p>
         </div>
 
