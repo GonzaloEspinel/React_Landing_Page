@@ -33,12 +33,7 @@ body {
     width: 7rem;
     height: auto;
   }
-  .nav h1{
-    line-height: .8;
-  }
-  .nav h{
-    line-height: .5;
-  }
+
 .flex-col {
   background-color: #010745;
   color: #fff;
@@ -52,7 +47,6 @@ body {
   border: 3px;
   size: 50%;
   border: 5px solid #FFC700;
-  
 }
 
 .cardForm {
@@ -62,7 +56,6 @@ body {
   padding: 2em;
   border-radius: 5px;
   text-align: right;
-  line-height: .1;
 
 
 }
