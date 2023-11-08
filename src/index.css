@@ -15,22 +15,21 @@ body {
 
 .flex-container {
   display: flex;
-  justify-content: space-around;
+  /* flex-direction: column;
+ flex-wrap: wrap; */
+
   margin: 0;
   padding: 0;
 
 }
 
 .nav{
-  display: inline-flex;
-  flex-wrap: wrap;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center
-  
- 
- 
-}
+  display: flex;
+  }
+  .nav img{
+    width: 7rem;
+    height: auto;
+  }
 
 .flex-col {
   background-color: #010745;
