@@ -1,8 +1,8 @@
-/* #root {
+#root {
   max-width: 1280px;
   margin: 0;
 
-} */
+}
 
 body {
   margin: 0;
@@ -98,41 +98,27 @@ body {
   background: black;
   color: white;
   padding: 5px 10px;
-  background-color: #FFC700;
-  height: 100px;
-  width: 150px;
-  padding: 2em;
-  border-radius: 5px;
-  border: 2px solid #010745;
-  color: #0c0c0c;
-  margin: auto;
-  /* margin-top: 5px; */
-  text-align: center;
-  word-wrap: break-word;
-  overflow-x: visible;
-  line-height: 1;
-  align-content: center;
-
 }
 
-.hero {
-  background-color: #f6f6f8;
+.heroP {
+  background-image: url(./assets/img/bernabeu.png);
+  /* background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain; */
   color: #010745;
-  align-content: center;
   border-radius: 5px;
   padding: 20px;
-  font-size: 1.5em;
+  font-size: 1.3em;
   text-align: center;
   flex: 1;
-  margin: 0;
-  border: 5px solid #010745;
-  size: 100%;
-
+  margin: 10px;
+  border-color: #FFC700;
+  border: 3px;
+  size: 50%;
+  border: 5px solid #FFC700;
+  line-height: .03;
 }
 
-.real-madrid-logo {
-  width: 100px;
-  height: 100px;
-
-
+.heroP p {
+  font-size: .8em;
 }

@@ -1,29 +1,32 @@
-import rmLogo from'./assets/img/logo_RM.png'
+import rmLogo from './assets/img/logo_RM.png'
+
+
 // import  {useState} from 'react'
 import './index.css'
+
 
 
 function App() {
   return (
     <>
 
-<div className="flex-container">
+      <div className="flex-container">
         <div className="nav">
           <a href="http://www.realmadrid.com/es/" target="_blank" rel="noreferrer">
-            <img src={rmLogo} className="logo"  />
+            <img src={rmLogo} className="logo" />
           </a>
           <h3>Bienvenido a</h3>
           <h1>
             La Peña Oficial Miami del Real Madrid C.F.
           </h1>
-          
-
-
         </div>
-        <div className="hero">
-          <img src="./assets/img/bernabeu.jpg" />
-          <img src="./assets/img/bernabeu.jpg" />
-          <img src="./assets/img/bernabeu.jpg" />
+
+        <div className="heroP">
+          
+          <h3>
+            La Peña Oficial Miami del Real Madrid C.F.
+          </h3>
+          <p> es un grupo de madridistas que realiza eventos durante los juegos del Real Madrid C.F. lo invitamos a registrarse para informacion de eventos y ofertas especiales para socios, miembros y fanaticos de nuestro querido Real Madrid </p>
         </div>
 
       </div>
@@ -35,18 +38,29 @@ function App() {
             <h5>Madridista Premium</h5>
             <h1>Free</h1>
             <h5>Lista de Beneficios</h5>
+            <a href="http://www.realmadrid.com/es/" target="_self" rel="noreferrer"></a>
             <input type="submit" value="Submit"></input>
           </div>
         </div>
 
         <div className="card">
-
+        <div className="text">
+            <h5>Madridista Socio</h5>
+            <h1>Free</h1>
+            <h5>Lista de Beneficios</h5>
+            <input type="submit" value="Submit"></input>
+          </div>
         </div>
         <div className="card">
-
+        <div className="text">
+            <h5>Madridista Fan</h5>
+            <h1>15$</h1>
+            <h5>Lista de Beneficios</h5>
+            <input type="submit" value="Submit"></input>
+          </div>
         </div>
       </div>
-      
+
       <div className="flex-col">
         <div className="formCard">
           <h2>Registro Gratuito</h2>
@@ -65,7 +79,7 @@ function App() {
         </div>
 
       </div>
-    
+
     </>
   )
 }
