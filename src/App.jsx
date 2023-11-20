@@ -21,23 +21,26 @@ function App() {
           </h1>
         </div>
         <div className='menu'>
-          <li>
-            Menu1
-          </li>
-          <li>
-            Menu2
-          </li>
-          <li>
-            Menu3
-          </li>
+          <a href="#">Inicio</a>
+          <a href="#">Quienes Somos</a>
+          <a href="#">Beneficios</a>
+          <a href="#">Registro</a>
         </div>
+
         <div className="hero">
           <h3>
             La Peña Oficial Miami del Real Madrid C.F.
           </h3>
+          <h4>El mejor club del siglo XX</h4>
+          <p>
+
+            Debido a su gran palmarés, el Real Madrid fue reconocido por la FIFA como el mejor club de fútbol del siglo XX. Este trofeo honorífico fue otorgado por la casa del fútbol mundial el 11 de diciembre del año 2000, durante una gala celebrada en Roma.
+          </p>
+          <p> La Peña Real Madrid Miami, somos un grupo de madridistas que realizamos eventos durante los juegos del Real Madrid C.F. en La Liga, UEFA Champions League, Copa del Rey,  Mundial de Clubes, nosotros lo invitamos a registrarse para informacion de eventos y ofertas especiales para socios, miembros y fanaticos de nuestro querido Real Madrid </p>
+
           <p> es un grupo de madridistas que realiza eventos durante los juegos del Real Madrid C.F. lo invitamos a registrarse para informacion de eventos y ofertas especiales para socios, miembros y fanaticos de nuestro querido Real Madrid </p>
         </div>
-        
+
 
       </div>
 
@@ -54,7 +57,7 @@ function App() {
         </div>
 
         <div className="card" >
-        <div className="text">
+          <div className="text">
             <h5>Madridista Socio</h5>
             <h1>Free</h1>
             <h5>Lista de Beneficios</h5>
@@ -62,7 +65,7 @@ function App() {
           </div>
         </div>
         <div className="card">
-        <div className="text">
+          <div className="text">
             <h5>Madridista Fan</h5>
             <h1>15$</h1>
             <h5>Lista de Beneficios</h5>

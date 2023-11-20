@@ -40,6 +40,7 @@ flex-direction: row;
 list-style: none;
 flex-wrap: wrap;
 
+
 }
 
 .flex-col {
@@ -114,9 +115,10 @@ button{
 }
 
 .hero {
+  display: cover;
   background-image: url(./assets/img/bernabeu.png);
-height: 500px;
-width: auto;
+height: auto;
+width: 96%;
   color: #010745;
   border-radius: 5px;
   padding: 20px;
