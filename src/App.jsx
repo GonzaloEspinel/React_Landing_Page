@@ -15,23 +15,22 @@ function App() {
           <a href="http://www.realmadrid.com/es/" target="_blank" rel="noreferrer">
             <img src={rmLogo} className="logo" />
           </a>
-          <nav>
-          <li>
-            Quienes Somos
-          </li>
-          <li>
-           Beneficios
-          </li>
-          <li>
-            Registro
-          </li>
-        </nav>
           <h3>Bienvenido a</h3>
           <h1>
             La Peña Oficial Miami del Real Madrid C.F.
           </h1>
         </div>
-        
+        <div className='menu'>
+          <li>
+            Menu1
+          </li>
+          <li>
+            Menu2
+          </li>
+          <li>
+            Menu3
+          </li>
+        </div>
         <div className="hero">
           <h3>
             La Peña Oficial Miami del Real Madrid C.F.

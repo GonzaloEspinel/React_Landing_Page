@@ -34,6 +34,13 @@ body {
   width: 7rem;
   height: auto;
 }
+.menu{
+display: flex;
+flex-direction: row;
+list-style: none;
+flex-wrap: wrap;
+
+}
 
 .flex-col {
   background-image: url(./assets/img/Real_Madrid_CF-SM.png);
@@ -90,6 +97,7 @@ body {
   border: 5px solid #010745;
   size: 40%;
 }
+
 
 .card {
   position: relative;
