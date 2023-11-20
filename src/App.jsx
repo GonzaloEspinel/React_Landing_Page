@@ -15,19 +15,30 @@ function App() {
           <a href="http://www.realmadrid.com/es/" target="_blank" rel="noreferrer">
             <img src={rmLogo} className="logo" />
           </a>
+          <nav>
+          <li>
+            Quienes Somos
+          </li>
+          <li>
+           Beneficios
+          </li>
+          <li>
+            Registro
+          </li>
+        </nav>
           <h3>Bienvenido a</h3>
           <h1>
             La Peña Oficial Miami del Real Madrid C.F.
           </h1>
         </div>
-
-        <div className="heroP">
-          
+        
+        <div className="hero">
           <h3>
             La Peña Oficial Miami del Real Madrid C.F.
           </h3>
           <p> es un grupo de madridistas que realiza eventos durante los juegos del Real Madrid C.F. lo invitamos a registrarse para informacion de eventos y ofertas especiales para socios, miembros y fanaticos de nuestro querido Real Madrid </p>
         </div>
+        
 
       </div>
 
@@ -43,7 +54,7 @@ function App() {
           </div>
         </div>
 
-        <div className="card">
+        <div className="card" >
         <div className="text">
             <h5>Madridista Socio</h5>
             <h1>Free</h1>
