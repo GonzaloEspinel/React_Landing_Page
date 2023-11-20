@@ -36,9 +36,9 @@ function App() {
 
             Debido a su gran palmarés, el Real Madrid fue reconocido por la FIFA como el mejor club de fútbol del siglo XX. Este trofeo honorífico fue otorgado por la casa del fútbol mundial el 11 de diciembre del año 2000, durante una gala celebrada en Roma.
           </p>
-          <p> La Peña Real Madrid Miami, somos un grupo de madridistas que realizamos eventos durante los juegos del Real Madrid C.F. en La Liga, UEFA Champions League, Copa del Rey,  Mundial de Clubes, nosotros lo invitamos a registrarse para informacion de eventos y ofertas especiales para socios, miembros y fanaticos de nuestro querido Real Madrid </p>
+          <p> La Peña Real Madrid Miami, somos un grupo de madridistas que realizamos eventos durante los juegos del Real Madrid C.F. en La Liga, UEFA Champions League, Copa del Rey,  Mundial de Clubes, y el resto de las transmisiones de los partidos oficiales y extra oficiales de nuestro querido Real Madrid </p>
 
-          <p> es un grupo de madridistas que realiza eventos durante los juegos del Real Madrid C.F. lo invitamos a registrarse para informacion de eventos y ofertas especiales para socios, miembros y fanaticos de nuestro querido Real Madrid </p>
+          <p> Nuestros eventos en ocaciones los organizamos en diferentes lugares en la ciudad de Miami, donde hay transmisiones de los juegos para el disfrute del publico, y en instalaciones privadas donde organizamo eventos premium, durante los juegos del Real Madrid C.F. lo invitamos a registrarse para informacion de eventos y ofertas especiales para socios, miembros y fanaticos de nuestro querido Real Madrid </p>
         </div>
 
 
